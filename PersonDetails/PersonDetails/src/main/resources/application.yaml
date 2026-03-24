@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: PersonDetails
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/persondetails
+
+server:
+  port: 8081
